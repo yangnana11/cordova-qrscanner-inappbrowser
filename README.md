@@ -1,5 +1,5 @@
 # Despcription
-Nowon application coded by Cordova
+A demo for scanning qr then open the web page
 
 # How to run
 - Firstly, remove android and ios platform
